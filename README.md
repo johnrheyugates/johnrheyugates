@@ -9,6 +9,4 @@ Python | SQL | Networking | SysAd | linux | Malware Analysis
 ## 2025 Goals  
 📜 Certifications | 👨‍💻 Internships | 🧠 Growth  
 
----
 
-*Monochromatic style. Simple. Impactful.*  
